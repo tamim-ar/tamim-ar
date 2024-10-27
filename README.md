@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim-ar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
---
+---
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="Tailwind CSS logo" />
 </div>
 
---
+---
 
 ### 🔗 Connect with Me
 
@@ -42,7 +42,7 @@
   </a>
 </div>
 
---
+---
 
 ### 📈 Activity
 
@@ -53,7 +53,7 @@
 
 <img src="https://github.com/tamim-ar/tamim-ar/blob/output/snake.svg" alt="Snake animation" />
 
---
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim-ar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
