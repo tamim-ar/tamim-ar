@@ -2,8 +2,6 @@
 
 <h2 align="left">I'm Tamim Ahasan Rijon, a passionate React Developer.</h2>
 
----
-
 ###
 
 <div align="center">
