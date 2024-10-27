@@ -11,14 +11,6 @@
 
 ---
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -52,7 +44,7 @@
 
 ---
 
-###
+### 📈 Activity
 
 <br clear="both">
 
@@ -60,12 +52,8 @@
 
 ---
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tamim-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=tamim-ar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim-ar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
----
