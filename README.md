@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=tamim-ar&base=9590&abbreviated=true)
 
-<h2>I'm Tamim Ahasan Rijon, a passionate React Developer.</h2>
+<h2 align="left">I'm Tamim Ahasan Rijon, a passionate React Developer.</h2>
 
 ###
 
