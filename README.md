@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tamim-ar&base=9590&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=tamim-ar&label=Profile%20Views&color=0e75b6&style=flat)
 
 <h2 align="left">Hi, I'm Tamim Ahasan Rijon! 👋 A passionate React Developer.</h2>
 
