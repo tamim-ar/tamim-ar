@@ -7,7 +7,7 @@
 <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-ar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula&hide_border=false"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-ar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dracula&hide_border=false"/>
 </div>
 
 ---
