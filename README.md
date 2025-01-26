@@ -29,11 +29,6 @@
 
 ---
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=tamim-ar&theme=default" />
-</picture>
-
 ### 🔗 Connect with Me
 
 <div align="center">
