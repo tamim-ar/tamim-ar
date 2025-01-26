@@ -28,7 +28,7 @@
 </div>
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tamim-ar" alt="GitHub Streak" /></a>
+
 ### 🔗 Connect with Me
 
 <div align="center">
