@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/tamim-ar/count.svg)
-
 ![](https://komarev.com/ghpvc/?username=tamim-ar&label=Profile%20Views&color=blue&style=for-the-badge)
 
 <h2 align="left">Hi, I'm Tamim Ahasan Rijon! 👋 A passionate Software Engineer.</h2>
