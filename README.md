@@ -5,11 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim-ar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-ar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
+<div><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-ar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula&hide_border=false"/></div>
 
 ---
 
