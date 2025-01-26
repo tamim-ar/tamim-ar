@@ -1,5 +1,6 @@
 ![Total Views](https://komarev.com/ghpvc/?username=tamim-ar&label=Profile%20Views&color=blue&style=for-the-badge)
 ![Total Stars](https://img.shields.io/github/stars/tamim-ar?color=yellow&style=for-the-badge&logo=github)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-150-blue?style=for-the-badge)
 
 <h2 align="left">Hi, I'm Tamim Ahasan Rijon! 👋 A passionate Software Engineer.</h2>
 
