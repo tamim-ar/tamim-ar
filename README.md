@@ -1,7 +1,7 @@
 ![Total Views](https://komarev.com/ghpvc/?username=tamim-ar&label=Profile%20Views&color=blue&style=for-the-badge)
 ![Total Stars](https://img.shields.io/github/stars/tamim-ar?color=yellow&style=for-the-badge&logo=github)
 
-<h2 align="left">Hi, I'm Tamim Ahasan Rijon! 👋 A passionate Software Engineer.</h2>
+<h2 align="left">Hi, I'm Tamim Ahasan Rijon! 👋 A passionate Software Engineer & QA Specialist.</h2>
 
 ###
 
@@ -26,7 +26,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="Selenium logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" />
 </div>
+
+### 🔍 Software Quality Assurance Expertise
+
+- **Test Automation**: Proficient in Selenium, TestNG, and JUnit frameworks
+- **CI/CD Implementation**: Experience with Jenkins and automated deployment pipelines
+- **Test Management**: Expert in test planning, execution, and defect tracking using Jira
+- **Performance Testing**: Skilled in JMeter and load testing methodologies
+- **API Testing**: Experienced with Postman and REST API testing
+- **Test Strategies**: Development of comprehensive test plans and test cases
+- **Agile Testing**: Strong background in Agile/Scrum testing methodologies
 
 ---
 
