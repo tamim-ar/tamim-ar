@@ -3,12 +3,14 @@
 
 <h2 align="left">Hi, I'm Tamim Ahasan Rijon! 👋 A passionate Software Engineer & QA Specialist.</h2>
 
-###
+---
+
+### 📊 GitHub Stats & Top Languages
 
 <div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tamim-ar&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en" />
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-ar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&hide_border=false"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-ar&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=10&theme=dracula" />
 </div>
 
 ---
@@ -59,11 +61,11 @@
 
 ---
 
-### 🥇 Achievements
+### 🏆 GitHub Trophies & Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tamim-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=tamim-ar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=tamim-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=tamim-ar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ---
